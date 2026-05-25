@@ -19,12 +19,6 @@ Repositorio unificado con todos los proyectos y prácticas realizados durante el
 | [Grupo1-Back-.NET](./Grupo1-Back-.NET) | Proyecto Grupo — Backend | C# |
 | [Grupo1-Front-Angular](./Grupo1-Front-Angular) | Proyecto Grupo — Frontend | TypeScript |
 
-## Otros proyectos
-
-| Proyecto | Descripción |
-|---|---|
-| [Raty](https://github.com/juanexpensive/Raty) | Proyecto personal |
-| [Catcher](https://github.com/juanexpensive/Catcher) | Web interna para control de errores en aplicaciones |
 
 ---
 
