@@ -1,25 +1,24 @@
-# Grado DAM — Desarrollo de Aplicaciones Multiplataforma
+# Multi-platform Applications Development Degree (DAM)
 
-Repositorio unificado con todos los proyectos y prácticas realizados durante el Grado Superior en **Desarrollo de Aplicaciones Multiplataforma**.
+A unified repository containing all projects, assignments, and practical coursework completed during the Higher Technical Degree in **Multi-platform Applications Development**.
 
-## Contenido
+## Contents
 
-| Carpeta | Asignatura | Tecnología |
+| Folder | Subject / Course | Technology |
 |---|---|---|
-| [PSP](./PSP) | Programación de Servicios y Procesos | Python |
-| [SGE](./SGE) | Sistemas de Gestión Empresarial | JavaScript |
-| [DI](./DI) | Diseño de Interfaces | TypeScript |
-| [Multimedia](./Multimedia) | Multimedia y Móvil | Kotlin |
-| [AD](./AD) | Acceso a Datos | Java |
-| [API](./API) | Acceso a Datos — API | Python |
-| [Unity](./Unity) | Videojuegos / Unity | C# |
-| [Pre-Practica](./Pre-Practica) | Repaso .NET antes de prácticas | C# |
-| [React-Project](./React-Project) | Proyecto React | JavaScript |
-| [PlotSkip](./PlotSkip) | TFG — Trabajo de Fin de Grado | — |
-| [Grupo1-Back-.NET](./Grupo1-Back-.NET) | Proyecto Grupo — Backend | C# |
-| [Grupo1-Front-Angular](./Grupo1-Front-Angular) | Proyecto Grupo — Frontend | TypeScript |
-
+| [PSP](./PSP) | Services and Processes Programming | Python |
+| [SGE](./SGE) | Enterprise Management Systems | JavaScript |
+| [DI](./DI) | Interface Design | TypeScript |
+| [Multimedia](./Multimedia) | Mobile and Multimedia Development | Kotlin |
+| [AD](./AD) | Data Access | Java |
+| [API](./API) | Data Access — API | Python |
+| [Unity](./Unity) | Game Development / Unity | C# |
+| [Pre-Practica](./Pre-Practica) | .NET Review (Pre-Internship) | C# |
+| [React-Project](./React-Project) | React Project | JavaScript |
+| [PlotSkip](./PlotSkip) | Capstone Project (TFG) | — |
+| [Grupo1-Back-.NET](./Grupo1-Back-.NET) | Group Project — Backend | C# |
+| [Grupo1-Front-Angular](./Grupo1-Front-Angular) | Group Project — Frontend | TypeScript |
 
 ---
 
-> Grado Superior DAM
+> Higher Technical Degree in Multi-platform Applications Development (DAM)
